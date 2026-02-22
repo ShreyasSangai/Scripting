@@ -1,5 +1,6 @@
 #!/bin/bash
 #this is to check if the shell scripts picks up env variables
+# this modified from new branch
 echo "This is error script"   # sample script
 echo "This is my system path $PATH"
 
